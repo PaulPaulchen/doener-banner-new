@@ -9,87 +9,84 @@
 }
 
 #welcome-text {
-	color: #f00;
-	text-shadow: 1px 2px #000;
+	color: #800000;
+	text-shadow: 1px 2px #2F4F4F;
 	font-family: 'Lilita One', cursive;
 	font-size: 1.5rem;
 	position: absolute;
-    text-transform: uppercase;
-    top: 40px;
-    left: 14.8px;
-
-
+	text-transform: uppercase;
+	top: 40px;
+	left: 14.8px;
 }
-
 
 #mmh {
 	font-family: 'Lilita One', cursive;
 	text-shadow: 2px 2px #000;
-	color: #0f0;
-	font-size: 1.6rem;
+	color: #006400;
+	font-size: 1.8rem;
 	position: absolute;
-    text-transform: uppercase;
-    top: 110px;
-    left: 8.8px;
+	top: 115px;
+	left: 10.5px;
+	transform: skewY(-20deg);
 }
 
 #tasty {
-
 	font-family: 'Lilita One', cursive;
 	text-shadow: 2px 2px #000;
-	color: #f00;
+	color: #800000;
 	font-size: 2rem;
 	position: absolute;
-    text-transform: uppercase;
-    top: 270px;
-    left: 35.5px;
+	text-transform: uppercase;
+	top: 270px;
+	left: 35.5px;
+	transform: skewY(-20deg);
 }
-#doener-bild{
+
+#doener-bild {
 	width: 100px;
 	height: 98px;
 	position: absolute;
-    top: 160px;
-    left: 30px;
+	top: 160px;
+	left: 30px;
 }
 
 #bike {
-
-  width: 64px;
-  height: 64px;
-  position: absolute;
-  top: 406px;
-  left: 48px;
+	width: 64px;
+	height: 64px;
+	position: absolute;
+	top: 406px;
+	left: 48px;
 }
 
 #deliver {
 	text-align: center;
 	font-family: 'Lilita One', cursive;
 	position: absolute;
-    text-transform: uppercase;
-    top: 355px;
-    left: 2px;
+	text-transform: uppercase;
+	top: 355px;
+	left: 2px;
 }
 
 #pre-telefon {
 	text-align: center;
 	font-family: 'Lilita One', cursive;
 	text-shadow: 2px 2px #000;
-	color: #0f0;
+	color: #006400;
 	font-size: 2rem;
 	position: absolute;
 	top: 480px;
 	left: 51.1px;
 	transform-origin: 0 37px;
 }
+
 #telefon {
 	text-align: center;
 	font-family: 'Lilita One', cursive;
 	text-shadow: 2px 2px #000;
-	color: #0f0;
+	color: #006400;
 	font-size: 2rem;
 	position: absolute;
 	top: 530px;
 	left: 6.15px;
 	transform-origin: 147px 0;
-
 }
