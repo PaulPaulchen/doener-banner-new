@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css?family=Lilita+One');
+
+#banner {
+	background-color: #c0c0c0;
+	border-radius: 20px;
+	width: 160px;
+	height: 600px;
+	position: relative;
+}
+
+#welcome-text {
+	color: #f00;
+	text-shadow: 1px 2px #000;
+	font-family: 'Lilita One', cursive;
+	font-size: 1.5rem;
+	position: absolute;
+    text-transform: uppercase;
+    top: 40px;
+    left: 14.8px;
+
+
+}
+
+
+#mmh {
+	font-family: 'Lilita One', cursive;
+	text-shadow: 2px 2px #000;
+	color: #0f0;
+	font-size: 1.6rem;
+	position: absolute;
+    text-transform: uppercase;
+    top: 110px;
+    left: 8.8px;
+}
+
+#tasty {
+
+	font-family: 'Lilita One', cursive;
+	text-shadow: 2px 2px #000;
+	color: #f00;
+	font-size: 2rem;
+	position: absolute;
+    text-transform: uppercase;
+    top: 270px;
+    left: 35.5px;
+}
+#doener-bild{
+	width: 100px;
+	height: 98px;
+	position: absolute;
+    top: 160px;
+    left: 30px;
+}
+
+#bike {
+
+  width: 64px;
+  height: 64px;
+  position: absolute;
+  top: 406px;
+  left: 48px;
+}
+
+#deliver {
+	text-align: center;
+	font-family: 'Lilita One', cursive;
+	position: absolute;
+    text-transform: uppercase;
+    top: 355px;
+    left: 2px;
+}
+
+#pre-telefon {
+	text-align: center;
+	font-family: 'Lilita One', cursive;
+	text-shadow: 2px 2px #000;
+	color: #0f0;
+	font-size: 2rem;
+	position: absolute;
+	top: 480px;
+	left: 51.1px;
+	transform-origin: 0 37px;
+}
+#telefon {
+	text-align: center;
+	font-family: 'Lilita One', cursive;
+	text-shadow: 2px 2px #000;
+	color: #0f0;
+	font-size: 2rem;
+	position: absolute;
+	top: 530px;
+	left: 6.15px;
+	transform-origin: 147px 0;
+
+}
